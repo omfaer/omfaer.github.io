@@ -1,20 +1,20 @@
-body {
-  background: url(../images/background2.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+body.dark-theme {
+    color: #f2f3f4!important;
 }
 
 h1 {
-	color: #f2f3f4;
+    color: #f1f1f1!important;
 }
 
 p {
-	color: #f4f4f4;
+    color: #f2f3f4!important;
 }
 
 .menu {
-	border-right: 0px;
-	border-left: 1px solid;
+    border-right: 0px!important;
+    border-left: 1px solid!important;
+}
+
+.logo__cursor {
+    background: #00FF00!important;
 }
