@@ -16,5 +16,9 @@ p {
 }
 
 .logo__cursor {
-    background: #00FF00!important;
+  background: #00FF00!important;
+}
+
+.theme-toggler {
+    display: none!important;
 }
