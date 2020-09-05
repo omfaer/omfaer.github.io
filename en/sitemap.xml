@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://omfaer.github.io/about/</loc>
+    <loc>https://omerfaruker.com/about/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omfaer.github.io/categories/</loc>
+    <loc>https://omerfaruker.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://omfaer.github.io/fr/categories/"
+                href="https://omerfaruker.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://omfaer.github.io/categories/"
+                href="https://omerfaruker.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://omfaer.github.io/tags/</loc>
+    <loc>https://omerfaruker.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://omfaer.github.io/fr/tags/"
+                href="https://omerfaruker.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://omfaer.github.io/tags/"
+                href="https://omerfaruker.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://omfaer.github.io/</loc>
+    <loc>https://omerfaruker.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://omfaer.github.io/fr/"
+                href="https://omerfaruker.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://omfaer.github.io/"
+                href="https://omerfaruker.com/"
                 />
   </url>
   
