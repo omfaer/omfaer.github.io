@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://omerfaruker.com/fr/categories/</loc>
+    <loc>https://omfaer.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://omerfaruker.com/categories/"
+                href="https://omfaer.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://omerfaruker.com/fr/categories/"
+                href="https://omfaer.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://omerfaruker.com/fr/tags/</loc>
+    <loc>https://omfaer.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://omerfaruker.com/tags/"
+                href="https://omfaer.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://omerfaruker.com/fr/tags/"
+                href="https://omfaer.github.io/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://omerfaruker.com/fr/</loc>
+    <loc>https://omfaer.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://omerfaruker.com/"
+                href="https://omfaer.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://omerfaruker.com/fr/"
+                href="https://omfaer.github.io/fr/"
                 />
   </url>
   
