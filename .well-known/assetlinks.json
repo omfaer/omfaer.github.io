@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.vispera.shark.debug",
+      "sha256_cert_fingerprints":
+      ["1C:4E:BA:05:D9:D5:19:22:3E:31:88:F4:DA:B2:B6:2C:D2:56:ED:BE:06:81:73:05:E0:56:2E:E3:3A:08:8A:46"]
+    }
+  }]
